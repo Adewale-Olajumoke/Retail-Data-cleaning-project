@@ -1,4 +1,4 @@
-Sales Analysis Project
+Retail-Data-cleaning-Project
 
 ## 📌 Project Overview
 This project analyzes sales data to uncover revenue trends, customer behavior, and key business insights that can support better decision-making.
